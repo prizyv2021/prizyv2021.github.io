@@ -1,0 +1,91 @@
+.top__title, .capture__title, .advantages__title, .advantages__text, .help__title, .help__caption, .modal-body, .modal-header  {
+	font-family: Open Sans!important;
+	font-weight: bold;
+	color: #10100e;
+
+}
+/*body {
+	background-color: #fff;
+}*/
+body {
+	color: #10100e;
+}
+.top__title {
+	font-family: 'Bebas Neue', cursive;
+	color: #10100e;
+	text-transform: uppercase;
+	max-width: 932px;
+}
+.m {
+	color: #df0000;
+}
+.top__block	{
+	border-bottom: 3px solid #10100e;
+
+}
+
+.capture__block {
+	padding-top: 31px;
+	padding-bottom: 31px;
+	border-bottom: 3px solid #10100e;
+
+}
+.help__caption > span {
+
+}
+.advantages__item{
+	border-radius:  10px;
+}
+.substrate__block {
+	border-radius:  10px;
+
+}
+.button.open-popup {
+	background-color: #df0000;
+	border-radius: 5px;
+}
+
+
+#input {
+	width: 100%;
+	margin: 20px 0;
+	border: 0;
+	border-bottom: 2px solid #10100e;
+	color: #df0000;
+	padding: 10px;
+	font-size: 1.3em ;
+	outline:  none;
+}
+.btn-oplata {
+	background-color: #df0000;
+	color: #fff;
+}
+.btn-secondary {
+	background-color: #10100e;
+}
+.help__title span{
+	color: #7b94a4;
+	font-size: 30px;
+
+	margin-top: 10px;
+}
+.m3 {
+	width: 100%;
+}
+.help__caption {
+	font-size:  30px;
+	max-width:400px
+	line-height: 1em;
+}
+@media (min-width: 100px) and (max-width:  990px) {
+.help__title span{
+	color: #7b94a4;
+	font-size: 15px;
+
+	margin-top: 10px;
+}	
+.help__caption {
+	font-size:  30px;
+	max-width: 90%
+}
+}
