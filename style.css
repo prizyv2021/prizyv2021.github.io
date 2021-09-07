@@ -19,6 +19,10 @@ body {
 .m {
 	color: #df0000;
 }
+.u {
+	text-decoration: underline;
+}
+
 .top__block	{
 	border-bottom: 3px solid #10100e;
 
